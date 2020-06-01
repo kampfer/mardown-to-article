@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "github-markdown-css": "^4.0.0",
+    "highlight.js": "^10.0.3",
     "markdown-it": "^11.0.0",
     "markdown-it-codepen": "^1.0.1"
   }
