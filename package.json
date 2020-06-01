@@ -1,0 +1,22 @@
+{
+  "name": "mardown-to-article",
+  "version": "1.0.0",
+  "description": "convert markdown to html",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "kampfer.liao@foxmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "github-markdown-css": "^4.0.0",
+    "markdown-it": "^11.0.0",
+    "markdown-it-codepen": "^1.0.1"
+  }
+}
